@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dr.O.idrissa",
+    "title": "Dr Idrissa OUEDRAOGO",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Idrissa OUEDRAOGO est enseignant-chercheur au Centre Universitaire de Dori/Université Thomas SANKARA. Il est également membre du Laboratoire de Biologie et Ecologie Animales de l’Ecole Doctorale Sciences et Technologies de l’Université Joseph Ki-Zerbo où il a conduit ses travaux de thèse de doctorat. Il enseigne dans les domaines de la biologie et de l’écologie animale. Ses travaux de recherche portent sur l’analyse de la dynamique des communautés animales notamment dans le contexte du changement climatique et des pressions liées aux activités anthropiques au Burkina Faso. Passionné de l’informatique, Idrissa consacre souvent du temps au developpement de technologies pour la collecte de données climatiques et biophysiques, indispensables à l’analyse et à la modélisation des phénomènes écologiques."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,19 @@
     "title": "Publications",
     "section": "",
     "text": "Ouedraogo, I., Oueda, A., Sirima, D., Ouedraogo, I., Guenda, W. & Kabre, G. B. (2015). Assessment of benthic molluscs diversity and distribution in urban reservoirs (Ouagadougou, Burkina Faso). International Journal of Biological and Chemical Sciences, 9(4). https://doi.org/10.4314/ijbcs.v9i4.29\nKaboré, I., Ouedraogo, I., Tampo, L., Ouéda, A., Moog, O., Guenda, W. & Melcher, A. (2017). Composition and dynamic of benthic macroinvertebrates community in semi-arid area rivers of Burkina Faso (West Africa). , 10. https://doi.org/10.4314/ijbcs.v10i4.8\nBancé, V., Adama, O., Kaboré, I., Ouedraogo, I., Mano, K., Weesie, P. & Kabré, G. (2021). Influence of micro-habitats on the distribution of macroinvertebrates in Burkina Faso (West Africa). , 9. https://doi.org/10.22034/ijab.v9i3.976"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dr Idrissa OUEDRAOGO",
+    "section": "Education",
+    "text": "Education\nUniversité Ouaga I Professeur Joseph Ki-Zerbo | Ouagadougou, Burkina Faso PhD en Biologie et Ecologie Animales | 2013 - 2018\nUniversité de Ouagadougou | Ouagadougou, Burkina Faso D.E.A en Biologie et Ecologie Animales | 2011 - 2013\nUniversité de Ouagadougou | Ouagadougou, Burkina Faso Maîtrise en Biologie et Physiologie Animales |2009 - 2010\nUniversité de Ouagadougou | Ouagadougou, Burkina Faso Licence ès Sciences Biologiques | 2008 - 2009\nUniversité de Ouagadougou | Ouagadougou, Burkina Faso DEUG II Chimie-Biologie| 2007 - 2008\nLycée Municipal Sanny Sanon | Bobo-Dioulasso, Burkina Faso Baccalauréat série D (Mathématiques et Sciences Naturelles) | 2006\nLycée Ouezzin Coulibaly | Bobo-Dioulasso, Burkina Faso Brevet d’Etudes du Premier Cycle (BEPC) | 2003\nEcole Primaire Nièneta B| Bobo-Dioulasso, Burkina Faso Certificat D’Etudes Primaires (CEP)| 1999"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dr Idrissa OUEDRAOGO",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
