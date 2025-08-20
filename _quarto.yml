@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Dr.O.idrissa"
+  title: "Mon profil"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Publications.qmd
 
 format:
   html:
